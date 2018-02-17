@@ -55,4 +55,5 @@ Federal Election Commission provides data files stretching back years and is reg
 *   The invalid inputs were highlighted and removed by skip_record_validation() in donation_analysis.py script.
 *   output of which is:<br/>
     C00384516|02895|2018|333|333|1<br/>
-    C00384516|02895|2018|333|717|2
+    C00384516|02895|2018|333|10334|2
+
